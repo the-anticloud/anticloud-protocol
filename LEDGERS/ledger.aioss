@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: CRYPTOCURRENCY/PROTOCOL
+# records: 5
+# head: cf6eb7b7d7d1db2aefe9fc82bf5bf321a19692b2223fe86b389f4e214be85195
+{"digest": "a1a0bf3a610a5fb1f021071d6f840f9b4570b3bcb280fb1d978aeea9d523ac68", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "9fa41a9c688827ffa07f3c5ae754577784d195e8188a66b5af91cb313d67a73f", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:52:56Z"}
+{"digest": "b53b910b0befaadf53f675e40bc133397b80f0aae1c203027bab36c281aa3f35", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "966fff071c4b8464a029fb1ee1ba80d40e68d6c1b2b1a9ff9acc0858eabefa01", "prev": "a1a0bf3a610a5fb1f021071d6f840f9b4570b3bcb280fb1d978aeea9d523ac68", "seq": 1, "ts": "2026-10-09T05:52:56Z"}
+{"digest": "2ef6dbefc865ab0f1a2322275b2e4e999d3aebcee5f7e304b89860acdf730f60", "kind": "readme", "path": "README.md", "payload_sha3": "1b338e57f24c529019a11bdfb797199699cf7a93921793c73d07d2d143e7acbe", "prev": "b53b910b0befaadf53f675e40bc133397b80f0aae1c203027bab36c281aa3f35", "seq": 2, "ts": "2026-10-09T05:52:56Z"}
+{"digest": "a47f54cda1c6fd672ee9136bd56af63f545dfaa6f3b821c862279e8377236a28", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "9c573c774213632dff21007fd07ddb65a45c0e82cf2294ab962fa4b4a118d2c4", "prev": "2ef6dbefc865ab0f1a2322275b2e4e999d3aebcee5f7e304b89860acdf730f60", "seq": 3, "ts": "2026-10-09T05:52:56Z"}
+{"digest": "cf6eb7b7d7d1db2aefe9fc82bf5bf321a19692b2223fe86b389f4e214be85195", "kind": "notice", "path": "NOTICE", "payload_sha3": "2be7048936d53e861611e85a7fa21397e209947d4e41214f0d7232ef98c2428d", "prev": "a47f54cda1c6fd672ee9136bd56af63f545dfaa6f3b821c862279e8377236a28", "seq": 4, "ts": "2026-10-09T05:52:56Z"}
